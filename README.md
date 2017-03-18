@@ -19,6 +19,8 @@ http://data.gov.ua/passport/9e011264-c16d-42ab-95f1-b06f7311103e
 * *scripts* --- скрипти, які застосовувались в роботі
      - *scripts/pa_data_download.R*    для завантаження даних
      - *scripts/pa_data_tidying_01.R*  для часткового структурування даних
+
+* *2017_gis-forum_presentation* --- матеріали презентації результатів на ГІС-форумі 2017 http://gis-forum.org.ua/
      
 
 ![map_01](/img/map_01.png)
